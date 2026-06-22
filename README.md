@@ -1,84 +1,36 @@
-# ASPNET-DK24TT80161-NguyenThiNhuHoa-webbantrasua
+## ASPNET-DK24TT80161-DoThiDoanTruc-webbantrasua
 
-Đây là bài báo cáo chuyên đề ASP.NET của nhóm Đỗ Thị Đoan Trúc, Nguyễn Thị Như Hoa lớp DK24TT80161.  
-Đề tài: Xây dựng website bán trà sữa.
+Đây là đồ án chuyên đề môn ASP.NET của nhóm em với đề tài xây dựng website bán trà sữa. Thông qua đề tài này, em muốn vận dụng những kiến thức đã học về ASP.NET MVC để tạo ra một website bán hàng cơ bản.
 
----
-
-# Tiến độ thực hiện dự án
-
-## 13/05/2026
-- Khởi tạo ý tưởng đề tài website bán trà sữa
-- Tìm hiểu mô hình ASP.NET MVC
-- Phân tích các chức năng cần có của hệ thống
-- Tham khảo giao diện các website bán đồ uống
-
-## 16/05/2026
-- Thiết kế sơ đồ cơ sở dữ liệu
-- Tạo các bảng sản phẩm, danh mục, tài khoản, đơn hàng
-- Thiết lập mối quan hệ giữa các bảng
-- Chuẩn bị dữ liệu mẫu
-
-## 18/05/2026
-- Khởi tạo project ASP.NET MVC
-- Cấu hình kết nối SQL Server
-- Tạo Models theo database
-- Cài đặt Entity Framework
-
-## 19/05/2026
-- Xây dựng giao diện trang chủ
-- Thiết kế menu và footer
-- Hiển thị danh sách sản phẩm từ database
-- Hoàn thiện layout chung cho website
-
-## 20/05/2026
-- Xây dựng chức năng chi tiết sản phẩm
-- Thêm sản phẩm vào giỏ hàng
-- Cập nhật số lượng sản phẩm trong giỏ hàng
-- Tính tổng tiền đơn hàng
-
-## 21/05/2026
-- Xây dựng chức năng đăng ký và đăng nhập
-- Phân quyền người dùng và quản trị viên
-- Kiểm tra validation form
-- Xử lý session đăng nhập
-
-## 22/05/2026
-- Xây dựng trang quản trị Admin
-- CRUD sản phẩm
-- CRUD danh mục sản phẩm
-- Upload hình ảnh sản phẩm
-
-## 24/05/2026
-- Xây dựng chức năng đặt hàng
-- Lưu thông tin hóa đơn và chi tiết hóa đơn
-- Hiển thị lịch sử mua hàng
-- Tối ưu truy vấn dữ liệu
-
-## 25/05/2026
-- Kiểm tra xử lí chạy demo
-- Hoàn thiện báo cáo 
-
-# Công nghệ sử dụng
+## Mục đích thực hiện
+- Tìm hiểu cách xây dựng website bằng ASP.NET MVC.
+- Áp dụng ngôn ngữ C# và SQL Server vào thực tế.
+- Xây dựng một số chức năng cơ bản của website bán trà sữa.
+## Công nghệ sử dụng
 - ASP.NET MVC
-- Entity Framework
+- C#
 - SQL Server
-- HTML, CSS, JavaScript, Bootstrap
+- HTML, CSS, Bootstrap
+- Visual Studio 2022
 
-# Chức năng chính
-## Người dùng
-- Xem sản phẩm
-- Tìm kiếm sản phẩm
-- Thêm giỏ hàng
-- Đặt hàng
-- Đăng ký / Đăng nhập
+## Hướng dẫn chạy chương trình
+- Tải source code từ GitHub.
+- Mở file .sln bằng Visual Studio 2022.
+- Restore NuGet Packages.
+- Cấu hình cơ sở dữ liệu trong file Web.config.
+- Nhấn F5 để chạy chương trình.
 
-## Quản trị viên
-- Quản lý sản phẩm
-- Quản lý danh mục
-- Quản lý đơn hàng
-- Quản lý tài khoản
-
-# Thành viên thực hiện
+## Sinh viên  thực hiện
 - Đỗ Thị Đoan Trúc
-- Nguyễn Thị Như Hoa
+- Nguyễn Thị Như Hoa      
+- Lớp: DK24TT80161
+- Môn học: Chuyên đề ASP.NET
+
+## Tiến độ thực hiện
+- 15-18/5/2026: Tìm hiểu đề tài,khảo sát các website bán trà sữa tương tự.
+- 19-24/5/2026: Nghiên cứu Asp.net MVC, C#, SQL server.
+- 25-28/5/2026: Thiết kế cơ sở dữ liệu.
+- 29-5 đến 4/6/2026: Xây dựng chức năng chính của website như chi tiết sản phẩm,danh mục, giỏ hàng.
+- 5-15/6/2026 : Kiểm tra, chạy thử demo, sửa lỗi.
+- 16-23/6/2026: Viết và hoàn thiện các chương của báo cáo, chụp hình minh họa kết quả thực hiện. 
+
