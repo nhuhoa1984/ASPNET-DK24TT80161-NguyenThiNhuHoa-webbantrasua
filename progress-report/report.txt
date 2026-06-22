@@ -1,52 +1,28 @@
-# Tiến độ thực hiện dự án
+## Thông tin đề tài
 
-## 13/05/2026
-- Khởi tạo ý tưởng đề tài website bán trà sữa
-- Tìm hiểu mô hình ASP.NET MVC
-- Phân tích các chức năng cần có của hệ thống
-- Tham khảo giao diện các website bán đồ uống
+Tên đề tài: Xây dựng Website bán hàng bằng ASP.NET MVC
 
-## 16/05/2026
-- Thiết kế sơ đồ cơ sở dữ liệu
-- Tạo các bảng sản phẩm, danh mục, tài khoản, đơn hàng
-- Thiết lập mối quan hệ giữa các bảng
-- Chuẩn bị dữ liệu mẫu
+Sinh viên thực hiện: Nguyễn Thị Như Hoa, Đỗ Thị Đoan Trúc
 
-## 18/05/2026
-- Khởi tạo project ASP.NET MVC
-- Cấu hình kết nối SQL Server
-- Tạo Models theo database
-- Cài đặt Entity Framework
+## Công việc đã thực hiện
+Tìm hiểu công nghệ ASP.NET MVC.
+Thiết kế cơ sở dữ liệu cho website.
+Xây dựng giao diện trang chủ.
+Xây dựng chức năng đăng ký tài khoản.
+Xây dựng chức năng đăng nhập.
+Xây dựng chức năng quản lý sản phẩm.
+Xây dựng chức năng giỏ hàng và thanh toán.
 
-## 19/05/2026
-- Xây dựng giao diện trang chủ
-- Thiết kế menu và footer
-- Hiển thị danh sách sản phẩm từ database
-- Hoàn thiện layout chung cho website
+## Công việc đang thực hiện
+Kiểm tra và sửa các lỗi phát sinh.
+Hoàn thiện giao diện người dùng.
+Hoàn thiện báo cáo đồ án.
 
-## 20/05/2026
-- Xây dựng chức năng chi tiết sản phẩm
-- Thêm sản phẩm vào giỏ hàng
-- Cập nhật số lượng sản phẩm trong giỏ hàng
-- Tính tổng tiền đơn hàng
+## Kế hoạch thực hiện
+Bổ sung và hoàn thiện các chức năng còn thiếu.
+Kiểm thử hệ thống.
+Hoàn thành báo cáo và chuẩn bị bảo vệ đồ án.
 
-## 21/05/2026
-- Xây dựng chức năng đăng kí và đăng nhập 
-- Phân quyền người dùng và quản trị viên
-- kiểm tra validation form 
-- Xử lí session đăng nhập
-## 22/05/2026
-- Xây dựng trang quản trị admin
-- Crud sản phẩm
-- Crud danh mục sản phẩm
-- Upload  hình ảnh sản phẩm
-## 24/05/2026
-- Xây dựng chức năng đặt hàng 
-- Lưu thông tin hóa đơn và chi tiết hóa đơn
-- Hiển thị lịch sử mua hàng
-- Tối ưu truy vấn dữ liệu
-## 25/05/2026
-- Kiểm tra xử lý chạy demo
--Hoàn thiện báo cáo
+## Đánh giá tiến độ
 
-
+Đến thời điểm hiện tại, các chức năng chính của website đã được xây dựng và chạy thử thành công. Trong thời gian tới sẽ tiếp tục hoàn thiện giao diện, kiểm tra lỗi và hoàn thành báo cáo đồ án.
