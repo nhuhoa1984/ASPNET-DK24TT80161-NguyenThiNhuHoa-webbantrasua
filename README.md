@@ -21,8 +21,8 @@
 - Nhấn F5 để chạy chương trình.
 
 ## Sinh viên  thực hiện
-- Đỗ Thị Đoan Trúc
-- Nguyễn Thị Như Hoa      
+- Nguyễn Thị Như Hoa
+- Đỗ Thị Đoan Trúc   
 - Lớp: DK24TT80161
 - Môn học: Chuyên đề ASP.NET
 
