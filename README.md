@@ -1,4 +1,4 @@
-## ASPNET-DK24TT80161-DoThiDoanTruc-webbantrasua
+## ASPNET-DK24TT80161-NguyenThiNhuHoa-webbantrasua
 
 Đây là đồ án chuyên đề môn ASP.NET của nhóm em với đề tài xây dựng website bán trà sữa. Thông qua đề tài này, em muốn vận dụng những kiến thức đã học về ASP.NET MVC để tạo ra một website bán hàng cơ bản.
 
